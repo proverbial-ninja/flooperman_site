@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>THE PROVERBIAL NINJA CODE &lt;/&gt;</title>
   <subtitle></subtitle>
-  <link href="https://eleventyduo.netlify.app/feed.xml" rel="self"/>
-  <link href="https://eleventyduo.netlify.app/"/>
+  <link href="https://blog.proverbial.ninja/feed.xml" rel="self"/>
+  <link href="https://blog.proverbial.ninja/"/>
   
     <updated>2023-07-10T21:00:00+03:00</updated>
   
-  <id>https://eleventyduo.netlify.app</id>
+  <id>https://blog.proverbial.ninja</id>
   <author>
     <name>Proverbial Ninja</name>
     <email>me@proverbial.ninja</email>
@@ -16,9 +16,9 @@
     
     <entry>
       <title>Flooperman v0.1.0 A Work-in-Progress Looperman Client</title>
-      <link href="https://eleventyduo.netlify.app/posts/flooperman-v0.1.0-a-work-in-progress-looperman-client/"/>
+      <link href="https://blog.proverbial.ninja/posts/flooperman-v0.1.0-a-work-in-progress-looperman-client/"/>
       <updated>2023-07-10T21:00:00+03:00</updated>
-      <id>https://eleventyduo.netlify.app/posts/flooperman-v0.1.0-a-work-in-progress-looperman-client/</id>
+      <id>https://blog.proverbial.ninja/posts/flooperman-v0.1.0-a-work-in-progress-looperman-client/</id>
       <content type="html">
         <![CDATA[
       <h2>Flooperman v0.1.0: A Work-in-Progress Looperman Client</h2>

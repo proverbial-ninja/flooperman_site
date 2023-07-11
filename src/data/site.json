@@ -1,11 +1,11 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
+  "name": "THE PROVERBIAL NINJA CODE </>",
+  "description": "",
   "url": "https://eleventyduo.netlify.app",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Proverbial Ninja",
+    "email": "me@proverbial.ninja",
+    "twitterHandle": "proverbialkiki"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
@@ -16,24 +16,24 @@
     },
     {
       "text": "About",
-      "url": "/about",
-      "external": false
+      "url": "https://proverbial.ninja",
+      "external":true
     }
   ],
   "socialLinks": [
     {
       "text": "Instagram",
-      "url": "https://instagram.com/",
+      "url": "https://instagram.com/proverbial.kiks",
       "external": true
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/proverbial-ninja",
       "external": true
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/",
+      "url": "https://twitter.com/proverbialkiki",
       "external": true
     }
   ],
@@ -44,5 +44,5 @@
       "external": true
     }
   ],
-  "showFooterAttribution": true
+  "showFooterAttribution": false
 }
